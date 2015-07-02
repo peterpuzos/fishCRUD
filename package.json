@@ -1,0 +1,13 @@
+{
+  "name": "fishcrud",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "author": "megatron",
+  "license": "ISC",
+  "dependencies": {
+	"express": "~4.0.0",
+	"body-parser": "~1.0.1",
+	"mysql": "*"
+  }
+}
